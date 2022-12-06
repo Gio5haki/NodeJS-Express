@@ -16,6 +16,6 @@
     "express": "^4.17.1",
     "fs": "0.0.1-security",
     "method-override": "^3.0.0",
-    "qs": "^6.9.3"
+    "qs": "^6.9.7"
   }
 }
